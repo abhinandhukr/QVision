@@ -261,12 +261,6 @@ const Dashboard = () => {
 <span className="tagline group-hover:block hidden absolute top-full left-1/2 transform -translate-x-1/2 bg-white text-black px-2 py-1 rounded-md z-20 mt-2">QapVision: Earn, Explore and Experience Equity in a New Dimension</span>
 </button>
 
-
-
-
-
-
-
     {showModal && <Modal showCamera={showCamera} handleClose={closeModal} />}
     </div>
   );

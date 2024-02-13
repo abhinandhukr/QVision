@@ -71,10 +71,10 @@ html, body {
   }
   
   .open-modal-button {
-    position: fixed;
+    position: fixed !important;
     top: 20px;
     right: 20px;
-    z-index: 1001; /* Higher than the modal to ensure it's clickable */
+    z-index: 1001 !important; /* Higher than the modal to ensure it's clickable */
   }
  
   .camera-container {
