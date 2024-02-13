@@ -101,7 +101,7 @@ const Dashboard = () => {
 
                     <div class="p-4 rounded-lg bg-green-100">
                         <div class="flex items-center">
-                            <i class="fas fa-users text-green-600 text-2xl"></i>
+                            <i class="fas fa-chart-pie text-green-600 text-2xl"></i>
                             <div class="ml-6">
                                 <p class="text-sm font-medium text-purple-600">Fully Diluted Shares</p>
                                 <p class="text-lg font-semibold">65028</p>
@@ -110,16 +110,16 @@ const Dashboard = () => {
                     </div>
                     <div class="p-4 rounded-lg bg-orange-100">
                         <div class="flex items-center">
-                            <i class="fas fa-users text-orange-600 text-2xl"></i>
+                            <i class="fas fa-money-bill-wave text-orange-600 text-2xl"></i>
                             <div class="ml-6">
                                 <p class="text-sm font-medium text-purple-600">Total Cash recieved</p>
                                 <p class="text-lg font-semibold">$ 68.48 M</p>
                             </div>
                         </div>
                     </div>
-                    <div class="p-4 rounded-lg bg-pink-100">
+                    <div class="p-4 rounded-lg bg-blue-100">
                         <div class="flex items-center">
-                            <i class="fas fa-users text-pink-600 text-2xl"></i>
+                            <i class="fas fa-balance-scale text-blue-600 text-2xl"></i>
                             <div class="ml-6">
                                 <p class="text-sm font-medium text-purple-600">Current Valuation</p>
                                 <p class="text-lg font-semibold">$ 263.82 M</p>
@@ -127,40 +127,40 @@ const Dashboard = () => {
                         </div>
                     </div>
 
-                    <div class="p-4 rounded-lg bg-purple-100">
+                    <div class="p-4 rounded-lg bg-violet-100">
                         <div class="flex items-center">
-                            <i class="fas fa-users text-purple-600 text-2xl"></i>
+                            <i class="fas fa-business-time text-violet-600 text-2xl"></i>
                             <div class="ml-6">
-                                <p class="text-sm font-medium text-purple-600">Investors</p>
-                                <p class="text-lg font-semibold">12</p>
+                                <p class="text-sm font-medium text-purple-600">Market Cap</p>
+                                <p class="text-lg font-semibold">$1.2 B</p>
                             </div>
                         </div>
                     </div>
 
                     <div class="p-4 rounded-lg bg-green-100">
                         <div class="flex items-center">
-                            <i class="fas fa-users text-green-600 text-2xl"></i>
+                            <i class="fas fa-dollar-sign text-green-600 text-2xl"></i>
                             <div class="ml-6">
-                                <p class="text-sm font-medium text-purple-600">Fully Diluted Shares</p>
-                                <p class="text-lg font-semibold">65028</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="p-4 rounded-lg bg-orange-100">
-                        <div class="flex items-center">
-                            <i class="fas fa-users text-orange-600 text-2xl"></i>
-                            <div class="ml-6">
-                                <p class="text-sm font-medium text-purple-600">Total Cash recieved</p>
+                                <p class="text-sm font-medium text-purple-600">Revenue</p>
                                 <p class="text-lg font-semibold">$ 68.48 M</p>
                             </div>
                         </div>
                     </div>
-                    <div class="p-4 rounded-lg bg-pink-100">
+                    <div class="p-4 rounded-lg bg-red-100">
                         <div class="flex items-center">
-                            <i class="fas fa-users text-pink-600 text-2xl"></i>
+                            <i class="fas fa-user-friends text-red-600 text-2xl"></i>
                             <div class="ml-6">
-                                <p class="text-sm font-medium text-purple-600">Current Valuation</p>
-                                <p class="text-lg font-semibold">$ 263.82 M</p>
+                                <p class="text-sm font-medium text-purple-600">Stakeholders</p>
+                                <p class="text-lg font-semibold">200</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="p-4 rounded-lg bg-teal-100">
+                        <div class="flex items-center">
+                            <i class="fas fa-lightbulb text-teal-600 text-2xl"></i>
+                            <div class="ml-6">
+                                <p class="text-sm font-medium text-purple-600">Investment</p>
+                                <p class="text-lg font-semibold">$ 763.82 M</p>
                             </div>
                         </div>
                     </div>
