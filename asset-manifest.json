@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/QVision/static/css/main.58b17aa3.css",
+    "main.css": "/QVision/static/css/main.ca1ee809.css",
     "main.js": "/QVision/static/js/main.81a11ba5.js",
     "static/media/QVisionLogo.png": "/QVision/static/media/QVisionLogo.280c0d484f1a23447eee.png",
     "static/media/bg.png": "/QVision/static/media/bg.08edc5cc6ce0110ae876.png",
     "index.html": "/QVision/index.html",
-    "main.58b17aa3.css.map": "/QVision/static/css/main.58b17aa3.css.map",
+    "main.ca1ee809.css.map": "/QVision/static/css/main.ca1ee809.css.map",
     "main.81a11ba5.js.map": "/QVision/static/js/main.81a11ba5.js.map"
   },
   "entrypoints": [
-    "static/css/main.58b17aa3.css",
+    "static/css/main.ca1ee809.css",
     "static/js/main.81a11ba5.js"
   ]
 }
