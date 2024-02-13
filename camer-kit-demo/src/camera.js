@@ -1,7 +1,6 @@
 import { bootstrapCameraKit } from '@snap/camera-kit';
 import { useEffect, useState } from 'react';
 import { Push2Web } from "@snap/push2web";
-import './dashboard.css';
 
 
 
